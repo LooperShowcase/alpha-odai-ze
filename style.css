@@ -1,0 +1,43 @@
+h1 {
+  color: blue;
+}
+h2 {
+  color: rgb(69, 138, 72);
+}
+h5 {
+  color: #ffff00;
+}
+body {
+  background-color: rgb(12, 170, 39);
+}
+hr {
+  background-color: black;
+  height: 10px;
+}
+#shiiii {
+  background-color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
